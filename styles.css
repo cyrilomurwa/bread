@@ -1,0 +1,18 @@
+body{
+    margin: 0 auto;
+    width: 800px;
+    border: 2px dashed blueviolet;
+    
+}
+img{
+    width: 400px;
+}
+.menucenter{
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    padding-right: 30px;
+    font-size: 20px;
+    text-decoration: none;
+}
