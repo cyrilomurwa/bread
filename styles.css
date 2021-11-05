@@ -6,6 +6,7 @@ body{
 }
 img{
     width: 400px;
+    height: 200px;
 }
 .menucenter{
     display: flex;
@@ -15,4 +16,9 @@ a{
     padding-right: 30px;
     font-size: 20px;
     text-decoration: none;
+}
+#centerTitle{
+    text-align: center;
+    font-weight: bolder;
+    
 }
